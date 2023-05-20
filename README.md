@@ -55,7 +55,13 @@ Implement a bash script that does the follow:
 1. Loop through the array and print each element.
 
 ```sh
-# Answer here
+# 
+numbers="one,two,three"
+
+IFS="," read -r -a numbers_array <<< "${numbers}"
+for number in "${numbers_array[@]}"; do
+echo "number: ${number}"
+done
 ```
 
 ---
