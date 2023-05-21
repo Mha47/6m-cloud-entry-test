@@ -78,6 +78,8 @@ Use [draw.io](draw.io) to draw a system architecture diagram as described below:
 
 Share the link to your image of diagram.
 
+https://drive.google.com/file/d/15XGEd2bHatZcPS-Oj04mBZc4TYO6Octl/view?usp=sharing
+
 ---
 
 **Question 5 - System Error Management**
