@@ -100,6 +100,17 @@ D - The principle of performance is not applied.
 
 ```
 Answer here
+
+What do you expect to gain? I hope to gain the knowledge and skills required to launch a successful and meaningful career in the field of cloud engineering. Interested in specializing in Dev/ops.  
+
+What are your career goals 12 months after grad? I intend to complete the relevant cloud certifications and improve my knowledge and employability in this field. 
+
+How you determine SCTP will achieve your goals? From what i have read, this SCTP course will provide hands on training in the relevant skills required for the cloud engineer role. 
+
+What are your past/current skills that will help you succeed after grad? I am no stranger to constantly gaining new knowledge and upskilling myself having successfully completed my part time bachelor's degree. I am resourceful and will do my best to clear any doubts i have. I understand the importance of having a good network and intend on knowing as much people as i can who are veterans in the field. 
+
+What obstacles? The foresee the learning curve to be very steep as i do not come from an IT background but i believe i will be able to overcome this challenge by consulting mentors and reading up on online resources. 
+
 ```
 
 ---
