@@ -99,17 +99,18 @@ D - The principle of performance is not applied.
 *Q5B: What do you suggest could be done to improve the situation?*
 
 ```
-Answer here
+B - The Principle of observability is not applied
+There is a need to diversify monitoring metrics to include new metrics such as logs, alerts, traces and multiple infrastructural components. With the insights gathered, Alan would be able to address known issues and help customers faster. 
 
-What do you expect to gain? I hope to gain the knowledge and skills required to launch a successful and meaningful career in the field of cloud engineering. Interested in specializing in Dev/ops.  
+What do you expect to gain? I hope to gain the knowledge and skills required to launch a successful and meaningful career in the field of cloud engineering. Hopefully specializing in Dev/ops.  
 
 What are your career goals 12 months after grad? I intend to complete the relevant cloud certifications and improve my knowledge and employability in this field. 
 
-How you determine SCTP will achieve your goals? From what i have read, this SCTP course will provide hands on training in the relevant skills required for the cloud engineer role. 
+How you determine SCTP will achieve your goals? From what i have read, this SCTP course will provide hands on training and the relevant skills required for the cloud engineer role making it easier for me to get a foothold in the industry. 
 
-What are your past/current skills that will help you succeed after grad? I am no stranger to constantly gaining new knowledge and upskilling myself having successfully completed my part time bachelor's degree. I am resourceful and will do my best to clear any doubts i have. I understand the importance of having a good network and intend on knowing as much people as i can who are veterans in the field. 
+What are your past/current skills that will help you succeed after grad? I am no stranger to constantly gaining new knowledge and upskilling myself having successfully completed my part time bachelor's degree. I am resourceful and will do my best to clear any doubts i have. I understand the importance of having a good network and intend to network with as many veterans in the field as i can. 
 
-What obstacles? The foresee the learning curve to be very steep as i do not come from an IT background but i believe i will be able to overcome this challenge by consulting mentors and reading up on online resources. 
+What obstacles? I foresee the learning curve to be very steep as i do not come from an IT engineering background but i believe i will be able to overcome this challenge by consulting with mentors to clear my doubts and constantly reading up and keeping up to date with recent trends.
 
 ```
 
